@@ -13,7 +13,7 @@ FA, comparator details
 
 ## How to test
 
-Comparator, FA
+Comparator, FA HA
 
 ## External hardware
 
