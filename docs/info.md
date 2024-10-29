@@ -9,12 +9,24 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-FA, comparator details
+Full Adder : 
+In0, In1, In2 are inputs to the full adder ( A, B and C )
+Out0 and Out1 are outputs ( SFA and CFA )
+SFA = C XOR ( A XOR B) 
+CFA = (A OR B) AND (C OR (A XOR B))   AB=
+
+
+1 bit comparator 
+In3and In4. 
+Out2, out3 and out 4. ( lesser, equal and greater )
+
+Half Adder
+In5 and In6 ( A, B ), Out 5 and out 6 ( HAS and HAC )
 
 ## How to test
 
-Comparator, FA HA
+Connect inputs signals and add LED's to check output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+LED display and resistors
